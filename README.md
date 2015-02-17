@@ -28,3 +28,6 @@ Inheritance
 ======
 ##### File 7.php
 Override Method
+
+----
+##The MIT License (MIT)
